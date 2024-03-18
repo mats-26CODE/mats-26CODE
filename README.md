@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mats-26CODE
-- 👀 Building Agiza Africa x ShopSnap x SpaceRent
+- 👀 Building Agiza Africa 🛒 x ShopSnap 🏪 x SpaceRent 🏘️
 - 🌱 Code Eerday
 - 🤝 Hit me up incase you need a collaborator 
 - 📫 How to reach me (mathayomaendeleo@gmail.com) / linkedin (Mathayo Maendeleo)
