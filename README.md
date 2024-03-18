@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mats-26CODE
-- 👀 I’m interested in Front-end Development using React, React Native, Flutter
-- 🌱 I’m currently learning Flutter
-- 🤝 I’m looking to collaborate on React & React Native Projects 
+- 👀 Building Agiza Africa x ShopSnap x SpaceRent
+- 🌱 Code Eerday
+- 🤝 Hit me up incase you need a collaborator 
 - 📫 How to reach me (mathayomaendeleo@gmail.com) / linkedin (Mathayo Maendeleo)
 
 <!---
