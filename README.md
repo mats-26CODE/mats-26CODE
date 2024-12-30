@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mats-26CODE
-- 👀 Building Agiza Africa 🛒 x ShopSnap 🏪 x SpaceRent 🏘️
+- 👀 Building Agiza Africa 🛒 x Keri 🏪 x SalesPro 🏘️
 - 🌱 Code Eerday
-- 🤝 Hit me up incase you need a collaborator 
+- 🤝 Hit me up incase you need a collaborator or you have a project in mind
 - 📫 How to reach me (mathayomaendeleo@gmail.com) / linkedin (Mathayo Maendeleo)
 
 <!---
